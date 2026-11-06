@@ -1,11 +1,5 @@
 {
-  "version": "0.8.8",
+  "version": "0.8.5",
   "fecha": "2026-11-05",
-  "notas": "PRUEBA del aviso: esta versión no existe. Tocá \"Ahora no\".",
-  "android": {
-    "url": "https://github.com/ganaderiasubtropicalctes-del/potreros-campo-versiones/releases",
-    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-    "bytes": 19100000,
-    "versionCode": 8008
-  }
+  "notas": "Archivo de prueba: no hay versión nueva."
 }
