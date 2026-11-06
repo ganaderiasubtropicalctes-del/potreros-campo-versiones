@@ -1,5 +1,17 @@
 {
-  "version": "0.8.5",
-  "fecha": "2026-11-05",
-  "notas": "Archivo de prueba: no hay versión nueva."
+  "version": "0.8.8",
+  "fecha": "2026-11-06",
+  "notas": "Las fechas se leen mejor (6 nov 2026) y la app sólo acepta descargas de este repositorio.",
+  "esquema": 12,
+  "windows": {
+    "url": "https://github.com/ganaderiasubtropicalctes-del/potreros-campo-versiones/releases/download/v0.8.8/potreros-campo-0.8.8-windows-desarrollo-setup.exe",
+    "sha256": "5d0538b0cbeae2389a9a99006837641bf8aa28691e454ffbb7ed76808b25c3d3",
+    "bytes": 6348029
+  },
+  "android": {
+    "url": "https://github.com/ganaderiasubtropicalctes-del/potreros-campo-versiones/releases/download/v0.8.8/potreros-campo-0.8.8-android-arm64-firmado.apk",
+    "sha256": "a78afe9530e0c3df8636656f452290f99fded2ae5d70a7da3ccd13c0b02dd617",
+    "bytes": 19045168,
+    "versionCode": 8008
+  }
 }
